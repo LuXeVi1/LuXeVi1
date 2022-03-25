@@ -8,7 +8,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Premiere Pro](https://img.shields.io/badge/-premiere-pro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
