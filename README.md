@@ -12,8 +12,8 @@
 <br/>
 
 <a href="https://github.com/BuXeVi1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuXeVi1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuXeVi1&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuXeVi1&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuXeVi1&theme=buefy&layout=compact" />
 </a>
 
 <br/>
