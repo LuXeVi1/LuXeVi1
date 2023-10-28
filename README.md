@@ -19,6 +19,21 @@ I'm always open to discussions, collaborations, or just a friendly chat. Don't h
 </a>
 <br/>
 
+## Table of Contents
+- [Hello](#hello-there-👋)
+- [Education](#education)
+- [Highlights Projects](#highlights-projects)
+  - [Descendere#1022](#descendere1022)
+  - [What is Descendere?](#what-is-descendere)
+  - [What type of competition?](#what-type-of-competition)
+  - [What is the mission? (Overview)](#what-is-the-mission-overview)
+  - [Preliminary Design Review (PDR)#1022](#preliminary-design-review-pdr)
+  - [Critical Design Review (CDR)](#critical-design-review-cdr)
+  - [Post Flight Review (PFR)](#post-flight-review-pfr)
+  - [Skills I learned from this project](#skills-i-learned-from-this-project)
+- [License](#license)
+
+
 
 ## Education
 
@@ -40,6 +55,23 @@ I'm always open to discussions, collaborations, or just a friendly chat. Don't h
 Competition Summary: [Photo](/docs/Descendere1022/rankings_2022.png) (The competition's website has been updated with current competition results.)
 
 I'm responsible for program part of working with my colleagues on this project: [@OmsinKrissada](https://github.com/OmsinKrissada)
+
+### **What is Descendere?**
+  - [Descendere#1022](https://github.com/Bobeeeeeeee/DescendereSat) is team by [SPACE AC](https://github.com/SPACE-AC) that competing in the [Annual CanSat Competition 2022](https://www.cansatcompetition.com/) in [Blacksburg](https://www.google.com/search?client=firefox-b-d&q=Blacksburg), [Virginia](https://www.google.com/search?client=firefox-b-d&q=Virginia), [USA](https://www.google.com/search?q=USA). Organized by the [American Astronautical Society (AAS)](https://astronautical.org) 
+
+### **What type of competition?**
+  
+  - This annual **competition international** is open to teams from universities and colleges. Teams must be able to design and build a space-type system, following the approved competition guide, and then compete against each at the end of two semesters to determine the winners. Rockets will be provided but teams are responsible for funding the construction of their CanSat and all travel/lodging expenses.
+
+### **What is the mission? (Overview)**
+
+  - [Competition Mission Guide 2022](/docs/Descendere1022/CanSat_Mission_Guide_2022.pdf)
+  
+  -  The mission is to simulate the landing sequence of a planetary probe.
+  
+  - Design a Cansat that shall consist of a container and a probe. The Cansat shall be launched to an altitude ranging from 670 meters to 725 meters above the launch site and deployed near apogee (peak altitude). Orientation of deployment is not controlled and is very violent with large shock forces. The Cansat must survive the forces incurred at launch and deployment.
+  
+  - Once the Cansat is deployed from the rocket, the Cansat shall descend using a parachute at a rate of 15 m/s. At 500 meters, the Cansat shall release a probe that shall open a heat shield that will also be used as an aerobraking device with a descent rate of 20 meters/second or less. A parachute, streamer, parafoil or similar device shall not be used with the heat shield. When the probe reaches 200 meters, the probe shall deploy a parachute and slow the descent rate to 5 meters/second. Once the probe has landed, it shall attempt to upright itself and raise a flag 500 mm above the probe. A video camera shall be included and point toward the ground during descent. 
 
 ### [**Preliminary Design Review (PDR)**](https://github.com/Bobeeeeeeee/DescendereSat/blob/main/Preliminary%20Design.pdf)
 
@@ -114,24 +146,6 @@ I'm responsible for program part of working with my colleagues on this project: 
 
   - Reporting
     - The results of the Post-Flight Review are typically documented in a report. This report may include data analysis, findings, conclusions, and recommendations for future CanSat projects.
-
-
-### **What is Descendere?**
-  - [Descendere#1022](https://github.com/Bobeeeeeeee/DescendereSat) is team by [SPACE AC](https://github.com/SPACE-AC) that competing in the [Annual CanSat Competition 2022](https://www.cansatcompetition.com/) in [Blacksburg](https://www.google.com/search?client=firefox-b-d&q=Blacksburg), [Virginia](https://www.google.com/search?client=firefox-b-d&q=Virginia), [USA](https://www.google.com/search?q=USA). Organized by the [American Astronautical Society (AAS)](https://astronautical.org) 
-
-### **What type of competition?**
-  
-  - This annual **competition international** is open to teams from universities and colleges. Teams must be able to design and build a space-type system, following the approved competition guide, and then compete against each at the end of two semesters to determine the winners. Rockets will be provided but teams are responsible for funding the construction of their CanSat and all travel/lodging expenses.
-
-### **What is the mission? (Overview)**
-
-  - [Competition Mission Guide 2022](/docs/Descendere1022/CanSat_Mission_Guide_2022.pdf)
-  
-  -  The mission is to simulate the landing sequence of a planetary probe.
-  
-  - Design a Cansat that shall consist of a container and a probe. The Cansat shall be launched to an altitude ranging from 670 meters to 725 meters above the launch site and deployed near apogee (peak altitude). Orientation of deployment is not controlled and is very violent with large shock forces. The Cansat must survive the forces incurred at launch and deployment.
-  
-  - Once the Cansat is deployed from the rocket, the Cansat shall descend using a parachute at a rate of 15 m/s. At 500 meters, the Cansat shall release a probe that shall open a heat shield that will also be used as an aerobraking device with a descent rate of 20 meters/second or less. A parachute, streamer, parafoil or similar device shall not be used with the heat shield. When the probe reaches 200 meters, the probe shall deploy a parachute and slow the descent rate to 5 meters/second. Once the probe has landed, it shall attempt to upright itself and raise a flag 500 mm above the probe. A video camera shall be included and point toward the ground during descent. 
 
 ### **Skills I learned from this project**
 
