@@ -8,8 +8,6 @@
 
 📌 **Virtual Alias**: `LuXeVi1` / `Lux`
 
-I'm always open to discussions, collaborations, or just a friendly chat. Let's connect!
-
 ---
 
 ## 🎓 Education
